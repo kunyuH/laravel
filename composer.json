@@ -1,0 +1,22 @@
+{
+  "name": "kyy/laravel",
+  "description": "laravel io服务扩展",
+  "type": "library",
+  "license": "MIT",
+  "keywords": ["laravel", "io"],
+  "authors": [
+    {
+      "name": "hky",
+      "email": "1960049949@qq.com"
+    }
+  ],
+  "minimum-stability": "dev",
+  "autoload": {
+    "psr-4": {
+      "kyy\\laravel\\": "src/"
+    }
+  },
+  "require": {
+      "php": "^7.2.5 || ^8.0"
+  }
+}
