@@ -1,6 +1,6 @@
 {
   "name": "hoooo/io",
-  "description": "laravel io服务扩展",
+  "description": "io服务扩展",
   "type": "library",
   "license": "MIT",
   "keywords": ["laravel", "io"],
